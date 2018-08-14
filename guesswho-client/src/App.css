@@ -1,0 +1,22 @@
+
+
+.App {
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+  border-radius: 5%;
+  padding: 10px;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
